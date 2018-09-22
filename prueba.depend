@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1537623704 source:d:\prueba\fecha.c
+
+1537626736 source:d:\prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+
+1537626663 source:d:\prueba\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+
+1537626728 d:\prueba\persona.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+
+1537623744 d:\prueba\fecha.h
+
